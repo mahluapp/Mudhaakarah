@@ -1,8 +1,11 @@
 [{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.mahluapp.mudhaakarah",
-        "sha256_cert_fingerprints": ["22:2E:AD:F3:F2:E8:75:3A:FA:CC:69:5D:3D:27:D4:C9:BD:0C:A8:CF:AE:75:43:8A:8A:41:83:1B:46:C2:45:F9"]
-      }
-    }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.mahluapp.mudhaakarah",
+    "sha256_cert_fingerprints": [
+      "22:2E:AD:F3:F2:E8:75:3A:FA:CC:69:5D:3D:27:D4:C9:BD:0C:A8:CF:AE:75:43:8A:8A:41:83:1B:46:C2:45:F9",
+      "8E:8C:B0:7F:82:E3:B9:18:21:06:50:1D:26:42:38:9A:A9:2A:73:5D:93:B0:BB:4C:FA:1A:74:53:F9:A7:AD:EC"
+    ]
+  }
+}]
