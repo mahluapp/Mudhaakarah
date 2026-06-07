@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.mahluapp.mudhaakarah",
+        "sha256_cert_fingerprints": ["22:2E:AD:F3:F2:E8:75:3A:FA:CC:69:5D:3D:27:D4:C9:BD:0C:A8:CF:AE:75:43:8A:8A:41:83:1B:46:C2:45:F9"]
+      }
+    }]
