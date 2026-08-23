@@ -36,7 +36,7 @@
     { "src": "screenshot-3.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Enregistrer sa progression" },
     { "src": "screenshot-4.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Historique et statistiques" },
     { "src": "screenshot-5.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Paramètres de révision" },
-    { "src": "screenshot-6.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Unités de suivi" }
+    { "src": "screenshot-6.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Unités de suivi" },
     { "src": "screenshot-7.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "Lecteur Mushaf" }
   ]
 }
